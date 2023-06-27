@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashant-Bhar8waj
 - 👀 I’m interested in Machine learing, Deep Learning and Computer Visions
-- 🌱 I’m currently learning Computer Visions
+- 🌱 I’m currently learning Computer Vision and C++
 
 
 <!---
